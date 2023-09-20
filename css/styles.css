@@ -1,0 +1,40 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E6DFD6;
+    color: #4F3243;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #D8BABE;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #4F3243;
+}
+
+/* Secciones */
+section {
+    background-color: #C584A7;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Enlaces */
+a {
+    color: #4F3243;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Enlaces al pasar el ratón */
+a:hover {
+    text-decoration: underline;
+}
